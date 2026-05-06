@@ -106,6 +106,5 @@ Simula um sistema de saque com saldo inicial definido.
 
 Desenvolvido como prática de lógica de programação em JavaScript.
 
-
-<img width="1000" height="500" alt="ItzahPixelArtGIF" src="https://github.com/user-attachments/assets/b1bb9e19-ca12-436b-9418-1e790b306a88" />
+<img width="374" height="498" alt="67BunnyGIF" src="https://github.com/user-attachments/assets/8a132c5d-f56b-484d-8b02-35e3dcd61cc4" />
 
